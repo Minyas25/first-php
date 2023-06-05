@@ -1,0 +1,15 @@
+{
+    "name": "administrateur/first-php",
+    "autoload": {
+        "psr-4": {
+            "Administrateur\\FirstPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jean Demel",
+            "email": "jean@demel.com"
+        }
+    ],
+    "require": {}
+}
