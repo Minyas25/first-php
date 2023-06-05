@@ -14,10 +14,10 @@ function repeatName(string $name, int $count):void
 function repeatNameWithBonus(string $name, int $count):void
 {
     for ($i=0; $i < $count; $i++) { 
-        echo '<p>';
+        echo "<p>";
         for ($j=0; $j < strlen($name); $j++) { 
             echo "<span>{$name[$j]}</span>";
         }
-        echo '</p>';
+        echo "</p>";
     }
 }
