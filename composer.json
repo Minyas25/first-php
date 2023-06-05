@@ -2,7 +2,7 @@
     "name": "administrateur/first-php",
     "autoload": {
         "psr-4": {
-            "Administrateur\\FirstPhp\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
