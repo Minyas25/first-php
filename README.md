@@ -14,7 +14,7 @@
 Bonus : Afficher chaque caractère du name dans un span (genre si je lui donne "Jean" ça affichera "<span>J</span><span>e</span><span>a</span><span>n</span>")
 
 
-### : Le compteur
+### Le compteur
 1. Créer un fichier src/Counter.php et dedans créer une classe Counter avec son namespace
 2. Rajouter une propriété count de type int à la classe et faire un constructeur qui initialise le count à 0 à l'instanciation
 3. Créer un fichier public/exo-counter.php et faire le require du autoload dedans puis faire une instance de la classe counter et un var_dump de celle ci pour voir si ça marche
