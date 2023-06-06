@@ -1,5 +1,10 @@
 # first-php
 
+## How To Use
+1. Cloner le projet
+2. Exécuter un `composer install`
+3. Lancer le serveur avec `php -S localhost:8000 -t public`
+
 ## Exercices
 ### Premiers petits exos pour la syntaxe de base
 1. Créer un fichier public/exo-syntaxe.php et ouvrir des balises php dedans
